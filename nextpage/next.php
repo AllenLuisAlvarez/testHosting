@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>NEXT PAGE NA TO GAGO</h1>
-    <a href="/nextpage2/next.php">click me</a>
+    <a href="/nextpage2/page2.php">click me</a>
 </body>
 </html>
