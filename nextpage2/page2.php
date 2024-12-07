@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>NEXT PAGE NA TO GAGO</h1>
-    <a href="/nextpage/next.php">click me</a>
+    <h1>NEXT PAGE 2 NA TO GAGO</h1>
 </body>
 </html>
