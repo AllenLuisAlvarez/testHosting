@@ -1,5 +1,0 @@
-{
-    "name": "vendor/composer.json",
-    "type": "composer-plugin",
-    "require": {}
-}
