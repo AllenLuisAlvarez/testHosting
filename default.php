@@ -8,6 +8,6 @@
 <body>
     <h1>TEST PUTANGINA</h1>
     <h2>please</h2>
-    <a href="/testHosting/nextpage/next.php">click me</a>
+    <a href="/nextpage/next.php">click me</a>
 </body>
 </html>
